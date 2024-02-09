@@ -1,9 +1,5 @@
 ﻿<a name="br1"></a> 
 
-**Indian Institute of Information Technology, Design and Manufacturing, Jabalpur**
-
-**CS314b Machine Learning Assignment (Literature Review)**
-
 *CoVID’19 Solutions - Using ML to predict which Coronavirus Patients need Ventilators*
 
 Authors - Kritika Singh Nikita Kushwaha Palak Mendiratta
